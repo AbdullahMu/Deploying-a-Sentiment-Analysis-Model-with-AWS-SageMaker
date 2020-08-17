@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="project-deploying-a-sentiment-analysis-model-with-aws-sagemaker">Project: Deploying a Sentiment-Analysis Model with AWS SageMaker</h1>
 <h2 id="setting-up-a-notebook-instance">Setting up a Notebook Instance</h2>
 <p>The deployment project which you will be working on is intended to be done using Amazon’s SageMaker platform. In particular, it is assumed that you have a working notebook instance in which you can clone the deployment repository.</p>
